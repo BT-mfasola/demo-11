@@ -26,3 +26,7 @@
 	path = OCA/ddmrp
 	url = git@github.com:OCA/ddmrp.git
 	branch = 11.0
+[submodule "OCA/stock-logistics-warehouse"]
+	path = OCA/stock-logistics-warehouse
+	url = git@github.com:OCA/stock-logistics-warehouse.git
+	branch = 11.0
